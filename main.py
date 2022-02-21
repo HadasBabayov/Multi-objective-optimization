@@ -83,3 +83,4 @@ plt.scatter(ideal0, ideal1, facecolors='none', edgecolors='red', marker="*", s=1
 plt.scatter(nadir0, nadir1, facecolors='none', edgecolors='green', marker="p", s=100, label="Nadir Point")
 plt.legend()
 plt.show()
+
