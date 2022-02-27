@@ -15,7 +15,7 @@ pip install numpy
 ```
 conda install numpy
 ```
-1.   pymoo:
+2.   pymoo:
      - pip
      - conda
 ```
@@ -26,7 +26,7 @@ conda create -n pymoo -y python==3.9 numpy
 conda activate pymoo
 pip install -U pymoo
 ```
-1.  matplotlib:
+3.  matplotlib:
     - pip
     - conda
 ```
