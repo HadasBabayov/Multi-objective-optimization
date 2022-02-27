@@ -6,12 +6,12 @@ Our project is about Multi-Objective optimization in genetics algorithems.
 - Download 'main.py' from the git repo.
 - copy the code to an existing project or create a new one.
 - install the following packages: 
--   numpy:
--   pip
+1   numpy:
+    - pip
 ```
 pip install numpy
 ```
--   conda
+    - conda
 ```
 conda install numpy
 ```
