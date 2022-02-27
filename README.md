@@ -14,5 +14,4 @@ Our project is about Multi-Objective optimization in genetics algorithems.
 - now, run the code - python main.py
 
 **The results:**
-After running the code you should see the result chart in the terminal and the first graph should pop up.
-When you close the first graph the other one will pop up too.
+After running the code you should see the result chart in the terminal and the graphs should pop up.
