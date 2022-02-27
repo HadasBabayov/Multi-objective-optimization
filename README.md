@@ -6,7 +6,7 @@ Our project is about Multi-Objective optimization in genetics algorithems.
 - Download 'main.py' from the git repo.
 - copy the code to an existing project or create a new one.
 - install the following packages: 
--   numpy - pip install numpy / if you use conda - conda install numpy
+-   numpy - `pip install numpy` / if you use conda - conda install numpy
 -   pymoo - pip install -U pymoo / if you use conda - conda create -n pymoo -y python==3.9 numpy
                                                       conda activate pymoo
                                                       pip install -U pymoo
