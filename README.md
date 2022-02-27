@@ -1,11 +1,11 @@
 # Multi-objective-optimization
 
-Our project is about Multi-Objective optimization in genetics algorithems.
+Our project is about Multi-Objective optimization in genetics algorithms.
 
 **Instructions for how to run and use the code:**
 - Download 'main.py' from the git repo.
-- copy the code to an existing project or create a new one.
-- install the following packages: 
+- Copy the code to an existing project or create a new one.
+- Install the following packages: 
 1.   numpy:
      - pip
      ```
@@ -35,7 +35,7 @@ Our project is about Multi-Objective optimization in genetics algorithems.
      ```
      conda install matplotlib
      ```
-- now, run the code:
+- Now, run the code:
 ```
 python main.py
 ```
