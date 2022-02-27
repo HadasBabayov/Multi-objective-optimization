@@ -17,24 +17,24 @@ Our project is about Multi-Objective optimization in genetics algorithems.
      ```
 2.   pymoo:
      - pip
+     ```
+     pip install -U pymoo
+     ```
      - conda
-```
-pip install -U pymoo
-```
-```
-conda create -n pymoo -y python==3.9 numpy
-conda activate pymoo
-pip install -U pymoo
-```
+     ```
+     conda create -n pymoo -y python==3.9 numpy
+     conda activate pymoo
+     pip install -U pymoo
+     ```
 3.  matplotlib:
     - pip
-    - conda
-```
-pip install -U matplotlib
-```
-```
-conda install matplotlib
-```
+     ```
+     pip install -U matplotlib
+     ```
+     - conda
+     ```
+     conda install matplotlib
+     ```
 - now, run the code:
 ```
 python main.py
