@@ -15,11 +15,30 @@ pip install numpy
 ```
 conda install numpy
 ```
--   pymoo - pip install -U pymoo / if you use conda - conda create -n pymoo -y python==3.9 numpy
-                                                      conda activate pymoo
-                                                      pip install -U pymoo
--   matplotlib - pip install -U matplotlib / if you use conda - conda install matplotlib
-- now, run the code - python main.py
+-   pymoo:
+-   pip
+```
+pip install -U pymoo
+```
+-  conda
+```
+conda create -n pymoo -y python==3.9 numpy
+conda activate pymoo
+pip install -U pymoo
+```
+-   matplotlib:
+-   pip
+```
+pip install -U matplotlib
+```
+-   conda
+```
+conda install matplotlib
+```
+- now, run the code:
+```
+python main.py
+```
 
 **The results:**
 After running the code you should see the result chart in the terminal and the graphs should pop up.
