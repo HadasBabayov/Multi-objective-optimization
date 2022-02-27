@@ -8,13 +8,13 @@ Our project is about Multi-Objective optimization in genetics algorithems.
 - install the following packages: 
 1.   numpy:
      - pip
+     ```
+     pip install numpy
+     ```
      - conda
-```
-pip install numpy
-```
-```
-conda install numpy
-```
+     ```
+     conda install numpy
+     ```
 2.   pymoo:
      - pip
      - conda
